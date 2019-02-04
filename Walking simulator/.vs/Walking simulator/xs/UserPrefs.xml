@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E0C69A14-227F-93E2-58AF-ABF6BF1B947B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Underwater.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Underwater.cs" Line="43" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
