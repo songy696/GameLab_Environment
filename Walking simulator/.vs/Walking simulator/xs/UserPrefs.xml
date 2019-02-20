@@ -1,7 +1,11 @@
 ﻿<Properties StartupConfiguration="{E0C69A14-227F-93E2-58AF-ABF6BF1B947B}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Underwater.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/endScreenTimer.cs">
     <Files>
-      <File FileName="Assets/Scripts/Underwater.cs" Line="43" Column="6" />
+      <File FileName="Assets/Scripts/fog.cs" Line="25" Column="2" />
+      <File FileName="Assets/Shaders/FogEffect.shader" Line="63" Column="2" />
+      <File FileName="Assets/Shaders/Stylized Fog.shader" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/playerControl/playerControl2.cs" Line="69" Column="1" />
+      <File FileName="Assets/Scripts/endScreenTimer.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

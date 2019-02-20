@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8D516955-DF9C-8E51-F44B-C4A4AF919E6A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RangeisChecked.cs">
+    <Files>
+      <File FileName="Assets/RangeisChecked.cs" Line="5" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

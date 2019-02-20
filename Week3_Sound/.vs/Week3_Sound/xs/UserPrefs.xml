@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{2853BF55-63FD-D5AF-073B-909DA7194806}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FishSwim.cs">
+    <Files>
+      <File FileName="Assets/PlayerCode.cs" Line="22" Column="29" />
+      <File FileName="Assets/FishSwim.cs" Line="17" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
