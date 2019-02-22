@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{A9F75A5F-8109-0EE9-D3AC-CFAAB7EF7E29}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Plugins/Ink/Example/Scripts/BasicInkExample.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Plugins/Ink/Example/Ink/story.ink">
     <Files>
       <File FileName="Assets/Plugins/Ink/Example/Scripts/BasicInkExample.cs" Line="1" Column="1" />
       <File FileName="Assets/Plugins/Ink/Example/Ink/story.json" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/Ink/Example/Ink/story.ink" Line="19" Column="37" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
